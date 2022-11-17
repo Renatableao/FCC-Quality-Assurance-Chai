@@ -1,3 +1,5 @@
 # Quality Assurance with Chai
 
+Page link: https://boilerplate-mochachai.renatableao.repl.co
+
 This is the boilerplate for the Quality Assurance with Chai lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-and-testing-with-chai/
